@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    padding: 40px 10px 40px;
+    font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    color: #111111;
+    text-align: center;
+}
+
+h1, h2 {
+    font-family: 'Lato', sans-serif;
+    letter-spacing: 6px;
+}
+
+h3 {
+    font-family: 'PT Sans', Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+}
+
+section {
+    margin-top: 4em;
+}
+
+em {
+    color: #6f6d6d;
+}
+
+a:link {
+    color: #111111;  
+}
+
+a:visited {
+    color: #111111;  
+}
+
+a:hover {
+    color: #525252;  
+}
+
+a:active {
+    color: #525252;  
+}
+
